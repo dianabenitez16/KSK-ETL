@@ -16,7 +16,8 @@ public class ksk extends javax.swing.JFrame {
      */
     public ksk() {
         initComponents();
-    }
+        
+    }  
 
     /**
      * This method is called from within the constructor to initialize the form.
